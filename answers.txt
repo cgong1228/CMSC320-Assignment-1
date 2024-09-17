@@ -1,3 +1,6 @@
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging will combine two branches while still preserving the entire git history. This keeps the branch-like structure. Rebasing will also solve merge conflicts, however, it wont preserve the entire branched history. Instead it linearizes the history by rewriting parts of the history log to add new commits from the original branch.
 
 Q2: What field could data science be applied to? Give and Example and how it might help
 
