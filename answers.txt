@@ -1,3 +1,7 @@
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my ability to use python to perform data analysis in addition to becoming more familiar with SQL databases. More specifically, for python I would really like to get better working with pandas since I'm not great at using dataframes.
+
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging will combine two branches while still preserving the entire git history. This keeps the branch-like structure. Rebasing will also solve merge conflicts, however, it wont preserve the entire branched history. Instead it linearizes the history by rewriting parts of the history log to add new commits from the original branch.
